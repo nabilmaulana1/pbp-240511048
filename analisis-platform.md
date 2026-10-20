@@ -1,4 +1,4 @@
-# Bagian 2 — Analisis Komparatif Platform
+# Analisis Komparatif Platform
 
 ## 1. Tabel Perbandingan Platform
 
